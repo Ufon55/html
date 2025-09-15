@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.warwick{
+    width: 20%;
+    display: block;
+    margin: 0 auto;
+    top: 25px;
+    left: 600px;
+}
+ .Jhins{
+    width: 20%;
+    position: absolute;
+    top: 200px;
+    left: 800px;
+    
+}
+.text{
+    text-align: center;
+}
