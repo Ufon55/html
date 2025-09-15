@@ -8,8 +8,7 @@
     width: 20%;
     display: block;
     margin: 0 auto;
-    top: 25px;
-    left: 600px;
+
 }
  .Jhins{
     width: 20%;
@@ -19,5 +18,8 @@
     
 }
 .text{
+    text-align: center;
+}
+.footer{
     text-align: center;
 }
