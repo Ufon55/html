@@ -12,9 +12,8 @@
 }
  .Jhins{
     width: 20%;
-    position: absolute;
-    top: 200px;
-    left: 800px;
+    display: block;
+    margin: 0 auto;
     
 }
 .text{
