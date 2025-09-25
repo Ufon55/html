@@ -22,3 +22,9 @@
 .footer{
     text-align: center;
 }
+
+.obrazky{
+    width: 10px;
+    height: 20px;
+    object-fit: cover;
+}
