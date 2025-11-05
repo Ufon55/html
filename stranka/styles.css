@@ -81,6 +81,11 @@ header h1 {
 #sec-2 .div1{
     grid-area:1/1/4/2;
 }
+
+#sec-2 img{
+    width: 200px;
+    height: 100%;
+}
  
 #sec-2 .div2{
     grid-area:1/2/2/4;
