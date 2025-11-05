@@ -10,8 +10,10 @@
 header{
  height: 100vh;
  padding: 30px;
- background-color: violet;
  display: block;
+    background-image: url("https://czechmovie.com/cdn/shop/articles/krtecek_1.jpg?v=1682408193&width=1200");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header{
