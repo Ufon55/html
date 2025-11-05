@@ -1,7 +1,7 @@
 #sec-2 {
     display: grid;
     grid-template-rows: repeat(2,1fr);
-    grid-column-gap: ;
+    grid-column-gap: 20px;
 
 }
 
@@ -11,5 +11,9 @@
 }
 
 #sec-2 .div2{
-    
+
+}
+
+#sec-div3{
+
 }
