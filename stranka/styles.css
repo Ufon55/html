@@ -14,6 +14,13 @@ header{
  display: block;
 }
 
+header{
+    background-image: url("https://czechmovie.com/cdn/shop/articles/krtecek_1.jpg?v=1682408193&width=1200");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position
+}
+
 nav{
     display: flex;
     flex-direction: row;
@@ -80,3 +87,19 @@ header h1 {
     grid-column-gap: ;
 
 }
+
+#sec-2 .img{
+    grid-area: 1/1/4/2;
+    background-color: aqua;
+}
+
+#sec-2 .div2{
+    grid-area: 1/2/2/4;
+    background-color: red;
+}
+
+#sec-div3{
+    grid-area: 2/2/3/4;
+    background-color: cornflowerblue;
+}
+
