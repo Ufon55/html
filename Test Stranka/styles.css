@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    min-height: 500px;
+    background-image: url("https://image.eltern.de/12304724/t/-1/v5/w1440/r1.7778/-/gettyimages-169484737-indexseite-fam-urlaub-jpg--31490-.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header h1{
+    color: white;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space;
+}
+
+.middle{
+    margin: 10%;
+    color: white;
+}
+
+.middle input{
+    margin-left: 45%;
+    background-color: blue;
+    color: white;
+    border-radius: 40%;
+}
+
+
+.modra{
+    background-color: blue;
+}
+
+.modra h1{
+    display: flex;
+    justify-content: left;
+    position: absolute;
+    
+}
+
+.left{
+    display: flex;
+    flex-direction: column;   
+    justify-content: right;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+
+}
+
+.konec{
+    background-color: black;
+    
+}
+
+.konec h1{
+    float: left;
+    color: white;
+}
+
+.konec p{
+    float: left ;
+    color: white;
+}
+
+.image{
+    display: flex;
+    justify-content: right;
+}
